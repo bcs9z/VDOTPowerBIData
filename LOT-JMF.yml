@@ -1,9 +1,9 @@
 ..generic:
-  git2rdata: 0.4.0
+  git2rdata: 0.4.1
   optimize: yes
   NA string: NA
   hash: 990e3e1ada11e5e4230f33acdcf51cc458fbdcc4
-  data_hash: fec4e8d0681bc699dbe773c08a59afaf2437c372
+  data_hash: 2f7ae9c34e4b33fdced0ab1a21d921f408392a83
 LOT_KEY:
   class: numeric
 FORMULA_KEY:
