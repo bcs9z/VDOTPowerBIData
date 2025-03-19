@@ -1,15 +1,18 @@
 ..generic:
-  git2rdata: 0.4.1
+  git2rdata: 0.5.0
   optimize: yes
   NA string: NA
-  hash: 990e3e1ada11e5e4230f33acdcf51cc458fbdcc4
-  data_hash: 1a22c4c00e23a008b0668b579e35760211b16680
+  hash: 060cb64b95dead65f0f809b6f3ceca35baf5ea73
+  data_hash: a10304f2a89d092ab5c8b1a3c4fc55503edfeb18
 LOT_KEY:
   class: numeric
+  digits: 6
 FORMULA_KEY:
   class: numeric
+  digits: 6
 LOT_NUMBER:
   class: numeric
+  digits: 6
 DSTRCT_CD:
   class: character
 VDOT_JOB_MIX:
